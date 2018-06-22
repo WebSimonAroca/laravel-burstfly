@@ -20,6 +20,7 @@
   <script type="text/javascript" src="{{asset('js/fastclick.min.js')}}"></script>
   <script type="text/javascript" src="{{asset('js/jquery.animate-colors-min.js')}}"></script>
   <script type="text/javascript" src="{{asset('js/jquery.animate-shadow-min.js')}}"></script>
+  <script type="text/javascript" src="{{asset('js/masonry.pkgd.min.js')}}"></script>
   <script type="text/javascript" src="{{asset('js/main.js')}}"></script>
   <script>
 
